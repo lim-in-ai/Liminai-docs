@@ -1,8 +1,8 @@
-# MCP Architecture Overview
+# EPNAI Architecture Overview
 
 ## Introduction
 
-MyCryptoProtocol (MCP) is designed as a protocol-level framework for connecting AI agents with crypto-native services. This document outlines the architectural components and their interactions.
+EPNAI is designed as a protocol-level framework for connecting AI agents with crypto-native services. This document outlines the architectural components and their interactions.
 
 ## High-Level Architecture
 
