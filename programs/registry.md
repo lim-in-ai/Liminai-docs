@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Registry Program is a core component of the Machine-Centric Protocol (MCP) that manages the on-chain registry of agents, contexts, and permissions. This program serves as the "source of truth" for the protocol's identity and access control system.
+The Registry Program is a core component of the Machine-Centric Protocol (EPNAI) that manages the on-chain registry of agents, contexts, and permissions. This program serves as the "source of truth" for the protocol's identity and access control system.
 
 ## Program ID
 
