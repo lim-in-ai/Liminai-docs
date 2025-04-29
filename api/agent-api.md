@@ -2,7 +2,7 @@
 
 ## Overview
 
-The MCP Agent API provides a standardized interface for building and integrating AI agents with the Machine-Centric Protocol. This document outlines the core interfaces, methods, and patterns for agent development.
+The EPNAI Agent API provides a standardized interface for building and integrating AI agents with the Machine-Centric Protocol. This document outlines the core interfaces, methods, and patterns for agent development.
 
 ## Core Interfaces
 
