@@ -8,7 +8,7 @@ The MCP Agent API provides a standardized interface for building and integrating
 
 ### Agent
 
-The base `Agent` interface defines the fundamental capabilities that all MCP agents must implement:
+The base `Agent` interface defines the fundamental capabilities that all EPNAI agents must implement:
 
 ```typescript
 interface Agent {
