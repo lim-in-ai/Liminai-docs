@@ -1,4 +1,5 @@
 # EPNAI Documentation
+![EPNAI](https://github.com/user-attachments/assets/03069f39-bf8f-43f7-8f04-3303dee90179)
 
 ## Overview
 Comprehensive documentation for the Machine-Centric Protocol (EPNAI) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
