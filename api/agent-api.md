@@ -161,7 +161,7 @@ class NFTAgent extends Agent {
 
 ## Best Practices
 
-When implementing agents for the MCP ecosystem, follow these best practices:
+When implementing agents for the EPNAI ecosystem, follow these best practices:
 
 1. **Security**: Never store private keys within the agent code. Use wallet adapters or other secure signing mechanisms.
 
