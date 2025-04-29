@@ -1,14 +1,14 @@
-# MCP Documentation
+# EPNAI Documentation
 
 ## Overview
-Comprehensive documentation for the Machine-Centric Protocol (MCP) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
+Comprehensive documentation for the Machine-Centric Protocol (EPNAI) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
 
 ## Documentation Sections
 - **Protocol Overview**: Architecture and design principles
 - **Solana Programs**: Technical details of on-chain components
 - **Agent API**: Specifications for building and using agents
 - **Setup Guides**: Local development and deployment instructions
-- **Tutorials**: Step-by-step guides to build with MCP
+- **Tutorials**: Step-by-step guides to build with EPNAI
 
 ## Getting Started
 The documentation is organized in markdown files that can be viewed directly on GitHub or built into a documentation site using tools like Docusaurus or VitePress.
@@ -32,7 +32,7 @@ npm run start
 - `/tutorials` - Step-by-step tutorials for developers
 
 ## Links
-- [Core Protocol](https://github.com/MyCryptoProtocol/mcp-core)
-- [Agents](https://github.com/MyCryptoProtocol/mcp-agents)
-- [Server](https://github.com/MyCryptoProtocol/mcp-server)
-- [Examples](https://github.com/MyCryptoProtocol/mcp-examples)
+- [Core Protocol](https://github.com/EPNAI/mcp-core)
+- [Agents](https://github.com/EPNAI/EPNAI-agents)
+- [Server](https://github.com/EPNAI/EPNAI-server)
+- [Examples](https://github.com/EPNAI/EPNAI-examples)
