@@ -1,8 +1,10 @@
-# EPNAI Documentation
-![EPNAI](https://github.com/user-attachments/assets/03069f39-bf8f-43f7-8f04-3303dee90179)
+# Liminai Documentation
+![liminai](https://github.com/user-attachments/assets/fe1f76bd-c1ae-44c7-b977-707db8e383d6)
+
+
 
 ## Overview
-Comprehensive documentation for the Machine-Centric Protocol (EPNAI) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
+Comprehensive documentation for the Machine-Centric Protocol ( Liminai) on Solana. This repository contains technical specifications, architecture details, API references, and guides for developers.
 
 ## Documentation Sections
 - **Protocol Overview**: Architecture and design principles
@@ -33,7 +35,7 @@ npm run start
 - `/tutorials` - Step-by-step tutorials for developers
 
 ## Links
-- [Core Protocol](https://github.com/EPNAI/mcp-core)
-- [Agents](https://github.com/EPNAI/EPNAI-agents)
-- [Server](https://github.com/EPNAI/EPNAI-server)
-- [Examples](https://github.com/EPNAI/EPNAI-examples)
+- [Core Protocol](https://github.com/lim-in-ai/ Liminai-core)
+- [Agents](https://github.com/lim-in-ai/ Liminai-agents)
+- [Server](https://github.com/lim-in-ai/ Liminai-server)
+- [Examples](https://github.com/lim-in-ai/ Liminai-examples)
