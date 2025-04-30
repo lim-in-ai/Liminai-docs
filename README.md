@@ -35,7 +35,7 @@ npm run start
 - `/tutorials` - Step-by-step tutorials for developers
 
 ## Links
-- [Core Protocol](https://github.com/lim-in-ai/ Liminai-core)
-- [Agents](https://github.com/lim-in-ai/ Liminai-agents)
-- [Server](https://github.com/lim-in-ai/ Liminai-server)
-- [Examples](https://github.com/lim-in-ai/ Liminai-examples)
+- [Core Protocol](https://github.com/lim-in-ai/Liminai-core)
+- [Agents](https://github.com/lim-in-ai/Liminai-agents)
+- [Server](https://github.com/lim-in-ai/Liminai-server)
+- [Examples](https://github.com/lim-in-ai/Liminai-examples)
