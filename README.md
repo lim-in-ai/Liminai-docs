@@ -1,5 +1,4 @@
 # Liminai Documentation
-![liminai](https://github.com/user-attachments/assets/fe1f76bd-c1ae-44c7-b977-707db8e383d6)
 
 
 
